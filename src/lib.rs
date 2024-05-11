@@ -1,3 +1,5 @@
+#![no_std]
+
 pub mod dir;
 mod dir_entry;
 mod stream;
